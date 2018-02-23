@@ -1,8 +1,2 @@
-#include<stdio.h>
-
-int main()
-{
-	printf("love is lie");
-	return 0;
-}
+love is lie
 
