@@ -1,1 +1,8 @@
-u never get what u expect from lifu never get what u
+#include<stdio.h>
+
+int main()
+{
+	printf("love is lie");
+	return 0;
+}
+
